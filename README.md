@@ -1,6 +1,10 @@
 SymfonyBundlesJsonRequestBundle
 ===============================
 
+``` bash
+This is a copy since the original repo has been removed ..
+```
+
 [![SensioLabsInsight][sensiolabs-insight-image]][sensiolabs-insight-link]
 
 [![Build Status][testing-image]][testing-link]
